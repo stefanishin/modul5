@@ -43,8 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Colossus of Rhodes.cs" />
+    <Compile Include="Hanging Gardens of Babylon.cs" />
+    <Compile Include="Lighthouse of Alexandria.cs" />
+    <Compile Include="Mausoleum at Halicarnassus.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Pyramid of Cheops.cs" />
+    <Compile Include="Temple of Artemis at Ephesus.cs" />
+    <Compile Include="WondersOfTheAncientWorld.cs" />
+    <Compile Include="Zeus statue in Olympia.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
