@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-/*
+using ConsoleAppTask1;
+    /*
 Задание 1.
     Разработайте приложение «7 чудес света», где каждое чудо будет представлено отдельным классом. 
     Создайте дополнительный класс, содержащий точку входа. 
@@ -13,10 +10,24 @@ namespace ConsoleAppTask1
 {
     class Program
     {
+        public WondersOfTheAncientWorld FavouriteAncientWonder;
+
         static void Main(string[] args)
         {
+              
+            Pyramid_of_Cheops.ShowWonder();
+            Hanging_Gardens_of_Babylon.ShowWonder();
+            Temple_of_Artemis_at_Ephesus.ShowWonder();
+            Zeus_statue_in_Olympia.ShowWonder();
+            Mausoleum_at_Halicarnassus.ShowWonder();
+            Colossus_of_Rhodes.ShowWonder();
+            Lighthouse_of_Alexandria.ShowWonder();
+
+            Console.ReadKey();
+
         }
     }
+    
 }
 /*
 

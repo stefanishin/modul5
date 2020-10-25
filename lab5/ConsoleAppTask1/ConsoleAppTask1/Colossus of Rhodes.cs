@@ -8,5 +8,9 @@ namespace ConsoleAppTask1
 {
     class Colossus_of_Rhodes
     {
+        public static void ShowWonder()
+        {
+            Console.WriteLine("Wonder 6: Colossus of Rhodes");
+        }
     }
 }

@@ -8,5 +8,9 @@ namespace ConsoleAppTask1
 {
     class Lighthouse_of_Alexandria
     {
+        public static void ShowWonder()
+        {
+            Console.WriteLine("Wonder 7: Lighthouse of Alexandria");
+        }
     }
 }

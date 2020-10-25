@@ -8,5 +8,9 @@ namespace ConsoleAppTask1
 {
     class Zeus_statue_in_Olympia
     {
+        public static void ShowWonder()
+        {
+            Console.WriteLine("Wonder 4: Zeus statue in Olympia");
+        }
     }
 }

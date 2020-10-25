@@ -16,4 +16,5 @@ namespace ConsoleAppTask1
      Colossus_of_Rhodes,
      Lighthouse_of_Alexandria
     }
+    
 }
