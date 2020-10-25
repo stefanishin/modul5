@@ -10,7 +10,6 @@ namespace ConsoleAppTask1
 {
     class Program
     {
-        public WondersOfTheAncientWorld FavouriteAncientWonder;
 
         static void Main(string[] args)
         {
